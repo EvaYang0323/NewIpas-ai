@@ -1,0 +1,5 @@
+quiz.db
+*.db
+.venv/
+__pycache__/
+.idea/
